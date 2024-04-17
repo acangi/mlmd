@@ -1,0 +1,22 @@
+---
+title: Data-driven magneto-elastic predictions with scalable classical spin-lattice
+  dynamics
+authors:
+- Svetoslav Nikolov
+- Mitchell A. Wood
+- Attila Cangi
+- Jean-Bernard Maillet
+- Mihai-Cosmin Marinica
+- Aidan P. Thompson
+- Michael P. Desjarlais
+- Julien Tranchida
+date: '2021-09-01'
+publishDate: '2024-04-17T10:25:47.269585Z'
+publication_types:
+- article-journal
+publication: '*npj Computational Materials*'
+doi: 10.1038/s41524-021-00617-2
+links:
+- name: URL
+  url: http://dx.doi.org/10.1038/s41524-021-00617-2
+---
