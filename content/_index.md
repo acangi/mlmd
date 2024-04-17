@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Machine Learning for Materials Design
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our research group **Machine Learning for Materials Design** is a research department of the [Center for Advanced Systems Understanding](https://www.casus.science) 
+        at [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de).
   
   - block: collection
     content:

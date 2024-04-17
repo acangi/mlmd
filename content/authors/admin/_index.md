@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Attila Cangi
 
 # Full Name (for SEO)
 first_name: Nelson
@@ -10,32 +10,34 @@ last_name: Bighetti
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Head of Department
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Center for Advanced Systems Understanding
+    url: 'https://www.casus.science/'
+  - name: Helmholtz-Zentrum Dresden-Rossendorf
+    url: 'https://www.hzdr.de/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+  - Electronic Structure Theory
+  - Condensed Matter Physics
+  - Materials Science
+  - Computational Chemistry
+  - Machine Learning
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry (Chemical, Applied, and Materials Physics)
+      institution: University of California, Irvine
+      year: 2011
+    - course: MSc in Physics
+      institution: Rutgers, The State University of New Jersey
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,24 +46,24 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:acangi@hzdr.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AttilaCangi
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=M84yoJgAAAAJ&hl=en 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/acangi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/CV_Attila_Cangi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'a.cangi@hzdr.de'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,9 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
