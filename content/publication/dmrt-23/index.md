@@ -16,7 +16,7 @@ authors:
 - Attila Cangi
 - Jan Vorberger
 date: '2023-03-01'
-publishDate: '2024-04-17T10:25:47.391597Z'
+publishDate: '2024-04-18T06:56:53.605710Z'
 publication_types:
 - article-journal
 publication: '*Physics of Plasmas*'

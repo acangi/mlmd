@@ -6,7 +6,7 @@ authors:
 - Zhandos Moldabekov
 - Attila Cangi
 date: '2021-04-01'
-publishDate: '2024-04-17T10:25:47.250554Z'
+publishDate: '2024-04-18T06:56:53.465119Z'
 publication_types:
 - article-journal
 abstract: The electronic structure in matter under extreme conditions is a challenging

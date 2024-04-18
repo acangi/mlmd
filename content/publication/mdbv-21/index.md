@@ -7,7 +7,7 @@ authors:
 - Jan Vorberger
 - Attila Cangi
 date: '2021-09-01'
-publishDate: '2024-04-17T10:25:47.263341Z'
+publishDate: '2024-04-18T06:56:53.477794Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Chemical Physics*'

@@ -7,7 +7,7 @@ authors:
 - Attila Cangi
 - Ronald Redmer
 date: '2022-08-01'
-publishDate: '2024-04-17T10:25:47.333277Z'
+publishDate: '2024-04-18T06:56:53.547266Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

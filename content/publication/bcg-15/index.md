@@ -6,7 +6,7 @@ authors:
 - Attila Cangi
 - E. K. U. Gross
 date: '2015-11-01'
-publishDate: '2024-04-17T10:25:47.225416Z'
+publishDate: '2024-04-18T06:56:53.440279Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. A*'

@@ -9,7 +9,7 @@ authors:
 - Andrew D. Baczewski
 - Stephanie B. Hansen
 date: '2023-06-01'
-publishDate: '2024-04-17T10:25:47.404855Z'
+publishDate: '2024-04-18T06:56:53.618715Z'
 publication_types:
 - article-journal
 publication: '*Physics of Plasmas*'

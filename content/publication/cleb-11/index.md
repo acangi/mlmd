@@ -7,7 +7,7 @@ authors:
 - Kieron Burke
 - E. K. U. Gross
 date: '2011-06-01'
-publishDate: '2024-04-17T10:25:47.187416Z'
+publishDate: '2024-04-18T06:56:53.402838Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Lett.*'

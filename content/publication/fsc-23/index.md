@@ -5,7 +5,7 @@ authors:
 - Karan Shah
 - Attila Cangi
 date: '2023-01-01'
-publishDate: '2024-04-17T10:25:47.130683Z'
+publishDate: '2024-04-18T06:56:53.346939Z'
 publication_types:
 - chapter
 publication: '*Machine Learning in Molecular Sciences*'

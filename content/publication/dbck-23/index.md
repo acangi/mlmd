@@ -13,7 +13,7 @@ authors:
 - Tilo Döppner
 - Jan Vorberger
 date: '2023-04-01'
-publishDate: '2024-04-17T10:25:47.398211Z'
+publishDate: '2024-04-18T06:56:53.612217Z'
 publication_types:
 - article-journal
 publication: '*Physics of Plasmas*'

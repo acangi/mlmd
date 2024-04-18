@@ -10,7 +10,7 @@ authors:
 - Attila Cangi
 - Mitchell A. Wood
 date: '2023-11-01'
-publishDate: '2024-04-17T10:25:47.463953Z'
+publishDate: '2024-04-18T06:56:53.681495Z'
 publication_types:
 - article-journal
 abstract: Dynamic compression of iron to Earth-core conditions is one of the few ways

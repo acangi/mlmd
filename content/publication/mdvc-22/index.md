@@ -7,7 +7,7 @@ authors:
 - Jan Vorberger
 - Attila Cangi
 date: '2022-01-01'
-publishDate: '2024-04-17T10:25:47.288410Z'
+publishDate: '2024-04-18T06:56:53.502731Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'
