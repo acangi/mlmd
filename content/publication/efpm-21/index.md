@@ -8,10 +8,10 @@ authors:
 - N. A. Modine
 - J. A. Stephens
 - A. P. Thompson
-- A. Cangi
+- Attila Cangi
 - S. Rajamanickam
 date: '2021-07-01'
-publishDate: '2024-04-18T18:17:35.201607Z'
+publishDate: '2024-04-18T18:24:12.723100Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

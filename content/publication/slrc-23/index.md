@@ -4,13 +4,13 @@ authors:
 - Sruthil Lal S. B.
 - ' Lokamani'
 - Kushal Ramakrishna
-- A. Cangi
+- Attila Cangi
 - D. Murali
 - Matthias Posselt
 - Assa Aravindh Sasikala Devi
 - Alok Sharan
 date: '2023-11-01'
-publishDate: '2024-04-18T18:17:35.378895Z'
+publishDate: '2024-04-18T18:24:12.903807Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

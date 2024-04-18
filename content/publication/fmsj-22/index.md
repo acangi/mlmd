@@ -8,9 +8,9 @@ authors:
 - Kaili Jiang
 - Tobias Dornheim
 - Michele Pavanello
-- A. Cangi
+- Attila Cangi
 date: '2022-10-01'
-publishDate: '2024-04-18T18:17:35.285954Z'
+publishDate: '2024-04-18T18:24:12.809834Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

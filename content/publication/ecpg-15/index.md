@@ -2,12 +2,12 @@
 title: Almost exact exchange at almost no computational cost in electronic structure
 authors:
 - Peter Elliott
-- A. Cangi
+- Attila Cangi
 - Stefano Pittalis
 - E. K. U. Gross
 - Kieron Burke
 date: '2015-08-01'
-publishDate: '2024-04-18T18:17:35.157436Z'
+publishDate: '2024-04-18T18:24:12.677369Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. A*'

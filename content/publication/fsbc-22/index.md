@@ -5,9 +5,9 @@ authors:
 - L. Fiedler
 - K. Shah
 - M. Bussmann
-- A. Cangi
+- Attila Cangi
 date: '2022-04-01'
-publishDate: '2024-04-18T18:17:35.254672Z'
+publishDate: '2024-04-18T18:24:12.777636Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Mater.*'

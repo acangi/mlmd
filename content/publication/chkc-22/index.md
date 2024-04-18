@@ -5,9 +5,9 @@ authors:
 - T. J. Callow
 - S. B. Hansen
 - E. Kraisler
-- A. Cangi
+- Attila Cangi
 date: '2022-04-01'
-publishDate: '2024-04-18T18:17:35.260927Z'
+publishDate: '2024-04-18T18:24:12.784101Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

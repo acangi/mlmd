@@ -2,13 +2,13 @@
 title: Virial theorem and exact properties of density functionals for periodic systems
 authors:
 - H. Mirhosseini
-- A. Cangi
+- Attila Cangi
 - T. Baldsiefen
 - A. Sanna
 - C. R. Proetto
 - E. K. U. Gross
 date: '2014-06-01'
-publishDate: '2024-04-18T18:17:35.144628Z'
+publishDate: '2024-04-18T18:24:12.664084Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

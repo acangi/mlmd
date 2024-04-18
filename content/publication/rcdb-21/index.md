@@ -3,12 +3,12 @@ title: First-principles modeling of plasmons in aluminum under ambient and extre
   conditions
 authors:
 - Kushal Ramakrishna
-- A. Cangi
+- Attila Cangi
 - Tobias Dornheim
 - Andrew Baczewski
 - Jan Vorberger
 date: '2021-03-01'
-publishDate: '2024-04-18T18:17:35.188890Z'
+publishDate: '2024-04-18T18:24:12.709851Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

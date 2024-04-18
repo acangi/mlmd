@@ -5,10 +5,10 @@ authors:
 - Tobias Dornheim
 - Panagiotis Tolias
 - Zhandos A. Moldabekov
-- A. Cangi
+- Attila Cangi
 - Jan Vorberger
 date: '2022-06-01'
-publishDate: '2024-04-18T18:17:35.267177Z'
+publishDate: '2024-04-18T18:24:12.790698Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Chemical Physics*'

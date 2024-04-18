@@ -3,9 +3,9 @@ title: Thermal excitation signals in the inhomogeneous warm dense electron gas
 authors:
 - Zhandos A. Moldabekov
 - Tobias Dornheim
-- A. Cangi
+- Attila Cangi
 date: '2022-01-01'
-publishDate: '2024-04-18T18:17:35.226887Z'
+publishDate: '2024-04-18T18:24:12.750429Z'
 publication_types:
 - article-journal
 publication: '*Scientific Reports*'

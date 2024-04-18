@@ -7,7 +7,7 @@ authors:
 - Aditya Das Sarma
 - Attila Cangi
 date: '2022-03-01'
-publishDate: '2024-04-18T18:17:35.397912Z'
+publishDate: '2024-04-18T18:24:12.923117Z'
 publication_types:
 - article-journal
 abstract: Classical Random Neural Networks (RNNs) have demonstrated effective applications

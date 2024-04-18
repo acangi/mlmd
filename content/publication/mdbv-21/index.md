@@ -5,9 +5,9 @@ authors:
 - Tobias Dornheim
 - Maximilian Böhme
 - Jan Vorberger
-- A. Cangi
+- Attila Cangi
 date: '2021-09-01'
-publishDate: '2024-04-18T18:17:35.208003Z'
+publishDate: '2024-04-18T18:24:12.730195Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Chemical Physics*'

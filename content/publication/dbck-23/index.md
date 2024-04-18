@@ -9,11 +9,11 @@ authors:
 - Thomas R. Preston
 - Zhandos A. Moldabekov
 - Niclas Schlünzen
-- A. Cangi
+- Attila Cangi
 - Tilo Döppner
 - Jan Vorberger
 date: '2023-04-01'
-publishDate: '2024-04-18T18:17:35.346346Z'
+publishDate: '2024-04-18T18:24:12.870400Z'
 publication_types:
 - article-journal
 publication: '*Physics of Plasmas*'
