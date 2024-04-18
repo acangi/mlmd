@@ -11,7 +11,7 @@ authors:
 - Mitchell A. Wood
 - Attila Cangi
 date: '2023-09-01'
-publishDate: '2024-04-17T10:25:47.417741Z'
+publishDate: '2024-04-18T06:56:53.631424Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

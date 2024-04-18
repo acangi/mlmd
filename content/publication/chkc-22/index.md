@@ -7,7 +7,7 @@ authors:
 - E. Kraisler
 - A. Cangi
 date: '2022-04-01'
-publishDate: '2024-04-17T10:25:47.314583Z'
+publishDate: '2024-04-18T06:56:53.528681Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

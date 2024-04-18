@@ -23,7 +23,7 @@ authors:
 - Tobias Dornheim
 - Thomas R. Preston
 date: '2024-03-01'
-publishDate: '2024-04-17T10:25:47.470618Z'
+publishDate: '2024-04-18T06:56:53.688131Z'
 publication_types:
 - article-journal
 abstract: Using a novel ultrahigh resolution ($Δ E ∼ 0.1,$eV) setup to measure electronic

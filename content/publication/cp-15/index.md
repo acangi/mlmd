@@ -4,7 +4,7 @@ authors:
 - Attila Cangi
 - Aurora Pribram-Jones
 date: '2015-10-01'
-publishDate: '2024-04-17T10:25:47.219183Z'
+publishDate: '2024-04-18T06:56:53.434224Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

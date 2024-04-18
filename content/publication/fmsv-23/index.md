@@ -10,7 +10,7 @@ authors:
 - Sivasankaran Rajamanickam
 - Attila Cangi
 date: '2023-06-01'
-publishDate: '2024-04-17T10:25:47.411263Z'
+publishDate: '2024-04-18T06:56:53.625014Z'
 publication_types:
 - article-journal
 publication: '*npj Computational Materials*'

@@ -6,7 +6,7 @@ authors:
 - Eli Kraisler
 - Attila Cangi
 date: '2022-01-01'
-publishDate: '2024-04-17T10:25:47.327098Z'
+publishDate: '2024-04-18T06:56:53.541124Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 21st Python in Science Conference*'

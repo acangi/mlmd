@@ -6,7 +6,7 @@ authors:
 - Peter Elliott
 - Kieron Burke
 date: '2010-06-01'
-publishDate: '2024-04-17T10:25:47.181092Z'
+publishDate: '2024-04-18T06:56:53.396659Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

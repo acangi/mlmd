@@ -8,7 +8,7 @@ authors:
 - Attila Cangi
 - Tobias Dornheim
 date: '2023-03-01'
-publishDate: '2024-04-17T10:25:47.372692Z'
+publishDate: '2024-04-18T06:56:53.586686Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Chemical Physics*'

@@ -8,7 +8,7 @@ authors:
 - Andrew Baczewski
 - Jan Vorberger
 date: '2021-03-01'
-publishDate: '2024-04-17T10:25:47.244245Z'
+publishDate: '2024-04-18T06:56:53.458903Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'
