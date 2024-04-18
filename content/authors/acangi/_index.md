@@ -11,7 +11,7 @@ authors:
   - acangi 
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Head of Department
@@ -62,7 +62,7 @@ social:
 email: 'a.cangi@hzdr.de'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
