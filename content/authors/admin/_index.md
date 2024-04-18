@@ -6,12 +6,8 @@ title: Attila Cangi
 first_name: Attila
 last_name: Cangi
 
-# Username (this should match the folder name)
-authors:
-  - acangi
-
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Head of Department
@@ -24,7 +20,7 @@ organizations:
     url: 'https://www.hzdr.de/'
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include ...  
+bio: My research interests include ...  
 
 education:
   courses:
