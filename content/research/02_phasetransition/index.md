@@ -4,7 +4,7 @@ title: Simulation of Magneto-Structural Phase Transitions in Materials
 show_date: false
 profile: false
 share: false
-pager: true
+pager: false
 weight: 20
 ---
 

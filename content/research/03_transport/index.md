@@ -4,7 +4,7 @@ title: First-Principles Simulations of Electronic Transport Properties
 show_date: false
 profile: false
 share: false
-pager: true
+pager: false
 weight: 30
 ---
 

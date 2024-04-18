@@ -5,24 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
+    design:
+      columns: 2
     content:
       title: |
-        Machine Learning for Materials Design
-      image:
-        filename: welcome.jpg
+        {{< figure src="mlmd_logo.png" width="200" >}}
       text: |
-        <br>
+        # Machine Learning for Materials Design
         
-        Our research group **Machine Learning for Materials Design** is a research department of the [Center for Advanced Systems Understanding](https://www.casus.science) 
+        **The Machine Learning for Materials Design** research group accelerates materials innovation through machine learning and computational modeling, with a focus on developing sustainable materials for a greener future. Our applications span energy storage devices, thermoelectrics, spintronics, neuromorphic devices, and advanced semiconductor modeling.
+
+        Our research group is research department of the [Center for Advanced Systems Understanding](https://www.casus.science) 
         at [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de).
-  
+
+
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
@@ -33,36 +36,19 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: showcase
+      columns: '2'
   
+
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
+      title: Social Media
       subtitle:
-      text: <a class="twitter-timeline" data-theme="light" href="https://twitter.com/AttilaCangi?ref_src=twsrc%5Etfw">Tweets by AttilaCangi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      text: <a class="twitter-timeline" data-lang="en" data-height="600" data-theme="light" href="https://twitter.com/AttilaCangi?ref_src=twsrc%5Etfw">Tweets by AttilaCangi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     design:
-      columns: '1'
+      view: card
+      columns: '2'
+  
 
   - block: markdown
     content:
