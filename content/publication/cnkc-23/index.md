@@ -4,9 +4,9 @@ authors:
 - Timothy J Callow
 - Jan Nikl
 - Eli Kraisler
-- A. Cangi
+- Attila Cangi
 date: '2023-12-01'
-publishDate: '2024-04-18T18:17:35.385325Z'
+publishDate: '2024-04-18T18:24:12.910455Z'
 publication_types:
 - article-journal
 publication: '*Machine Learning: Science and Technology*'

@@ -8,7 +8,7 @@ authors:
 - J Vorberger
 - A Cangi
 date: '2023-10-01'
-publishDate: '2024-04-18T18:17:35.372375Z'
+publishDate: '2024-04-18T18:24:12.897410Z'
 publication_types:
 - article-journal
 publication: '*Electronic Structure*'

@@ -7,10 +7,10 @@ authors:
 - Aidan Thompson
 - Dayton J. Vogel
 - Lenz Feilder
-- A. Cangi
+- Attila Cangi
 - Sivasankaran Rajamanickam
 date: '2022-09-01'
-publishDate: '2024-04-18T18:17:35.098128Z'
+publishDate: '2024-04-18T18:24:12.618715Z'
 publication_types:
 - article-journal
 doi: 10.2172/1889336

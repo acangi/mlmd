@@ -4,10 +4,10 @@ authors:
 - Maximilian Schörner
 - Bastian B. L. Witte
 - Andrew D. Baczewski
-- A. Cangi
+- Attila Cangi
 - Ronald Redmer
 date: '2022-08-01'
-publishDate: '2024-04-18T18:17:35.279640Z'
+publishDate: '2024-04-18T18:24:12.803392Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

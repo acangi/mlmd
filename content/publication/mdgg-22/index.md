@@ -7,9 +7,9 @@ authors:
 - G. Gregori
 - F. Graziani
 - M. Bonitz
-- A. Cangi
+- Attila Cangi
 date: '2022-01-01'
-publishDate: '2024-04-18T18:17:35.241028Z'
+publishDate: '2024-04-18T18:24:12.763530Z'
 publication_types:
 - article-journal
 publication: '*SciPost Phys.*'

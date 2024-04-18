@@ -1,11 +1,11 @@
 ---
 title: Potential functionals versus density functionals
 authors:
-- A. Cangi
+- Attila Cangi
 - E. K. U. Gross
 - Kieron Burke
 date: '2013-12-01'
-publishDate: '2024-04-18T18:17:35.138393Z'
+publishDate: '2024-04-18T18:24:12.657721Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. A*'

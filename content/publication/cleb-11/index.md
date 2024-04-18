@@ -1,13 +1,13 @@
 ---
 title: Electronic Structure via Potential Functional Approximations
 authors:
-- A. Cangi
+- Attila Cangi
 - Donghyung Lee
 - Peter Elliott
 - Kieron Burke
 - E. K. U. Gross
 date: '2011-06-01'
-publishDate: '2024-04-18T18:17:35.132077Z'
+publishDate: '2024-04-18T18:24:12.651298Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Lett.*'

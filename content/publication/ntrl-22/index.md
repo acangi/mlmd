@@ -6,10 +6,10 @@ authors:
 - J. Tranchida
 - K. Ramakrishna
 - M. Lokamani
-- A. Cangi
+- Attila Cangi
 - M. A. Wood
 date: '2022-06-01'
-publishDate: '2024-04-18T18:17:35.247280Z'
+publishDate: '2024-04-18T18:24:12.769948Z'
 publication_types:
 - article-journal
 publication: '*Journal of Materials Science*'

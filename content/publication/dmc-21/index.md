@@ -4,9 +4,9 @@ title: A Machine-Learning Surrogate Model for ab initio Electronic Correlations 
 authors:
 - Tobias Dornheim
 - Zhandos Moldabekov
-- A. Cangi
+- Attila Cangi
 date: '2021-04-01'
-publishDate: '2024-04-18T18:17:35.195254Z'
+publishDate: '2024-04-18T18:24:12.716351Z'
 publication_types:
 - article-journal
 abstract: The electronic structure in matter under extreme conditions is a challenging

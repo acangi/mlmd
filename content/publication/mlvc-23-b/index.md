@@ -5,10 +5,10 @@ authors:
 - Zhandos A. Moldabekov
 - Mani Lokamani
 - Jan Vorberger
-- A. Cangi
+- Attila Cangi
 - Tobias Dornheim
 date: '2023-03-01'
-publishDate: '2024-04-18T18:17:35.319458Z'
+publishDate: '2024-04-18T18:24:12.844050Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Chemical Physics*'

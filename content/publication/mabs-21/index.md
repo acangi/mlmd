@@ -5,9 +5,9 @@ authors:
 - Y. K. Aldakul
 - N. K. Bastykova
 - S. Sundar
-- A. Cangi
+- Attila Cangi
 date: '2021-12-01'
-publishDate: '2024-04-18T18:17:35.220650Z'
+publishDate: '2024-04-18T18:24:12.743794Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

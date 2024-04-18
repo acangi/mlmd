@@ -9,9 +9,9 @@ authors:
 - Svetoslav Nikolov
 - Julien Tranchida
 - Mitchell A. Wood
-- A. Cangi
+- Attila Cangi
 date: '2023-09-01'
-publishDate: '2024-04-18T18:17:35.365789Z'
+publishDate: '2024-04-18T18:24:12.890659Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

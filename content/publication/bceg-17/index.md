@@ -4,11 +4,11 @@ title: 'Exchange-correlation approximations for reduced-density-matrix-functiona
   electron gas'
 authors:
 - Tim Baldsiefen
-- A. Cangi
+- Attila Cangi
 - F. G. Eich
 - E. K. U. Gross
 date: '2017-12-01'
-publishDate: '2024-04-18T18:17:35.176046Z'
+publishDate: '2024-04-18T18:24:12.696532Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. A*'

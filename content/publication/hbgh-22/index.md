@@ -10,12 +10,12 @@ authors:
 - Alina Kononov
 - Taisuke Nagayama
 - Kelsey Adler
-- A. Cangi
+- Attila Cangi
 - Kyle Cochrane
 - Brian Robinson
 - A. Schleife
 date: '2022-09-01'
-publishDate: '2024-04-18T18:17:35.105227Z'
+publishDate: '2024-04-18T18:24:12.625199Z'
 publication_types:
 - article-journal
 doi: 10.2172/1890268
