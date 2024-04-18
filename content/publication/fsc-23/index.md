@@ -3,9 +3,9 @@ title: Machine-Learning for Static and Dynamic Electronic Structure Theory
 authors:
 - Lenz Fiedler
 - Karan Shah
-- Attila Cangi
+- A. Cangi
 date: '2023-01-01'
-publishDate: '2024-04-18T06:56:53.346939Z'
+publishDate: '2024-04-18T18:17:35.072958Z'
 publication_types:
 - chapter
 publication: '*Machine Learning in Molecular Sciences*'

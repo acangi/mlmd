@@ -4,13 +4,13 @@ title: Quantum-Accurate Multiscale Modeling of Shock Hugoniots, Ramp Compression
   Metals
 authors:
 - Svetoslav Nikolov
-- Attila Cangi
+- A. Cangi
 - Julien Tranchida
 - Andrew Rohskopf
 - Michael Desjarlais
 - Mitchell A. Wood
 date: '2022-09-01'
-publishDate: '2024-04-18T06:56:53.384190Z'
+publishDate: '2024-04-18T18:17:35.112796Z'
 publication_types:
 - article-journal
 doi: 10.2172/1898251

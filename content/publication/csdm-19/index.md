@@ -2,12 +2,12 @@
 title: Semi-local Density Functional Approximations for Bulk, Surface, and Confinement
   Physics
 authors:
-- Attila Cangi
+- A. Cangi
 - Francisca Sagredo
 - Elizabeth Decolvenaere
 - Ann E. Mattsson
 date: '2019-09-01'
-publishDate: '2024-04-18T06:56:53.365263Z'
+publishDate: '2024-04-18T18:17:35.091456Z'
 publication_types:
 - article-journal
 doi: 10.2172/1569522

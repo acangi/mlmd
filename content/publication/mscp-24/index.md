@@ -3,10 +3,10 @@ title: Inverting the Kohn--Sham equations with physics-informed machine learning
 authors:
 - Vincent Martinetto
 - Karan Shah
-- Attila Cangi
+- A. Cangi
 - Aurora Pribram-Jones
 date: '2024-03-01'
-publishDate: '2024-04-18T06:56:53.701690Z'
+publishDate: '2024-04-18T18:17:35.432453Z'
 publication_types:
 - article-journal
 publication: '*Machine Learning: Science and Technology*'

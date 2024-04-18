@@ -5,11 +5,11 @@ authors:
 - Thomas W. Hentschel
 - Alina Kononov
 - Alexandra Olmstead
-- Attila Cangi
+- A. Cangi
 - Andrew D. Baczewski
 - Stephanie B. Hansen
 date: '2023-06-01'
-publishDate: '2024-04-18T06:56:53.618715Z'
+publishDate: '2024-04-18T18:17:35.352915Z'
 publication_types:
 - article-journal
 publication: '*Physics of Plasmas*'

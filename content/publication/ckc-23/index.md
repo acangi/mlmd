@@ -3,9 +3,9 @@ title: Improved calculations of mean ionization states with an average-atom mode
 authors:
 - Timothy J. Callow
 - Eli Kraisler
-- Attila Cangi
+- A. Cangi
 date: '2023-01-01'
-publishDate: '2024-04-18T06:56:53.572525Z'
+publishDate: '2024-04-18T18:17:35.305052Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Res.*'

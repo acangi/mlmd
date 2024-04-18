@@ -8,7 +8,7 @@ authors:
 - C. R. Proetto
 - E. K. U. Gross
 date: '2014-06-01'
-publishDate: '2024-04-18T06:56:53.415321Z'
+publishDate: '2024-04-18T18:17:35.144628Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

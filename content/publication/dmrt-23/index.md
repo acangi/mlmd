@@ -13,10 +13,10 @@ authors:
 - Tilo Döppner
 - Frank Graziani
 - Michael Bonitz
-- Attila Cangi
+- A. Cangi
 - Jan Vorberger
 date: '2023-03-01'
-publishDate: '2024-04-18T06:56:53.605710Z'
+publishDate: '2024-04-18T18:17:35.339686Z'
 publication_types:
 - article-journal
 publication: '*Physics of Plasmas*'

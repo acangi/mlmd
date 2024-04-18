@@ -1,7 +1,7 @@
 ---
 title: MALA
 authors:
-- Attila Cangi
+- A. Cangi
 - Sivasankaran Rajamanickam
 - Bartosz Brzoza
 - Timothy J. Callow
@@ -26,7 +26,7 @@ authors:
 - Sneha Verma
 - D. Jon Vogel
 date: '2024-01-01'
-publishDate: '2024-04-18T06:56:53.330301Z'
+publishDate: '2024-04-18T18:17:35.055751Z'
 publication_types:
 - manuscript
 publication: '*Zenodo*'

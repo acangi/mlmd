@@ -1,10 +1,10 @@
 ---
 title: Efficient formalism for warm dense matter simulations
 authors:
-- Attila Cangi
+- A. Cangi
 - Aurora Pribram-Jones
 date: '2015-10-01'
-publishDate: '2024-04-18T06:56:53.434224Z'
+publishDate: '2024-04-18T18:17:35.163707Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

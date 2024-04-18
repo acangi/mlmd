@@ -7,7 +7,7 @@ authors:
 - Nico Hoffmann
 - Attila Cangi
 date: '2022-10-01'
-publishDate: '2024-04-18T06:56:53.566278Z'
+publishDate: '2024-04-18T18:17:35.298803Z'
 publication_types:
 - article-journal
 abstract: We demonstrate the utility of physics-informed neural networks (PINNs) as
