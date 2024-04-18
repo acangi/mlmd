@@ -21,4 +21,4 @@ It combines the scalability of atomistic simulations with the high accuracy of f
 
 ![screen reader text](mala_horizontal.png)
 
-See [Paper]({{< ref "/publication/preprint" >}} "Preprint")!
+See [Paper]({{< ref "/publication/crbc-24" >}} "Paper")!
