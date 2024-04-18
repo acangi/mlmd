@@ -3,11 +3,15 @@
 title: Attila Cangi
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Attila
+last_name: Cangi
+
+# Username (this should match the folder name)
+authors:
+  - acangi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Head of Department
@@ -20,15 +24,7 @@ organizations:
     url: 'https://www.hzdr.de/'
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Electronic Structure Theory
-  - Condensed Matter Physics
-  - Materials Science
-  - Computational Chemistry
-  - Machine Learning
-  - Artificial Intelligence
+bio: My research interests include ...  
 
 education:
   courses:
@@ -66,7 +62,7 @@ social:
 email: 'a.cangi@hzdr.de'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
