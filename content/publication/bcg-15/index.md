@@ -3,10 +3,10 @@ title: 'Reduced-density-matrix-functional theory at finite temperature: Theoreti
   foundations'
 authors:
 - Tim Baldsiefen
-- Attila Cangi
+- A. Cangi
 - E. K. U. Gross
 date: '2015-11-01'
-publishDate: '2024-04-18T06:56:53.440279Z'
+publishDate: '2024-04-18T18:17:35.169853Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. A*'

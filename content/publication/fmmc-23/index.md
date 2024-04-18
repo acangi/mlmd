@@ -4,9 +4,9 @@ authors:
 - Lenz Fiedler
 - Normand A. Modine
 - Kyle D. Miller
-- Attila Cangi
+- A. Cangi
 date: '2023-09-01'
-publishDate: '2024-04-18T06:56:53.695309Z'
+publishDate: '2024-04-18T18:17:35.425967Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

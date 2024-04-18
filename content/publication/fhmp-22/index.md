@@ -10,9 +10,9 @@ authors:
 - Vladyslav Oles
 - J Austin Ellis
 - Sivasankaran Rajamanickam
-- Attila Cangi
+- A. Cangi
 date: '2022-10-01'
-publishDate: '2024-04-18T06:56:53.559833Z'
+publishDate: '2024-04-18T18:17:35.292355Z'
 publication_types:
 - article-journal
 publication: '*Machine Learning: Science and Technology*'

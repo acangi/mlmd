@@ -5,9 +5,9 @@ authors:
 - Zhandos Moldabekov
 - Tobias Dornheim
 - Jan Vorberger
-- Attila Cangi
+- A. Cangi
 date: '2022-01-01'
-publishDate: '2024-04-18T06:56:53.502731Z'
+publishDate: '2024-04-18T18:17:35.234698Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

@@ -4,9 +4,9 @@ authors:
 - Timothy Callow
 - Daniel Kotik
 - Eli Kraisler
-- Attila Cangi
+- A. Cangi
 date: '2022-01-01'
-publishDate: '2024-04-18T06:56:53.541124Z'
+publishDate: '2024-04-18T18:17:35.273436Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 21st Python in Science Conference*'

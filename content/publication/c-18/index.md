@@ -1,9 +1,9 @@
 ---
 title: An Exchange-Correlation Functional Capturing Bulk Surface and Confinement Physics
 authors:
-- Attila Cangi
+- A. Cangi
 date: '2018-07-01'
-publishDate: '2024-04-18T06:56:53.359247Z'
+publishDate: '2024-04-18T18:17:35.085320Z'
 publication_types:
 - article-journal
 doi: 10.2172/1530147

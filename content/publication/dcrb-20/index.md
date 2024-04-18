@@ -3,13 +3,13 @@ title: 'Effective Static Approximation: A Fast and Reliable Tool for Warm-Dense 
   Theory'
 authors:
 - Tobias Dornheim
-- Attila Cangi
+- A. Cangi
 - Kushal Ramakrishna
 - Maximilian Böhme
 - Shigenori Tanaka
 - Jan Vorberger
 date: '2020-12-01'
-publishDate: '2024-04-18T06:56:53.452587Z'
+publishDate: '2024-04-18T18:17:35.182403Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Lett.*'

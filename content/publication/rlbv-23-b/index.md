@@ -5,9 +5,9 @@ authors:
 - Mani Lokamani
 - Andrew Baczewski
 - Jan Vorberger
-- Attila Cangi
+- A. Cangi
 date: '2023-03-01'
-publishDate: '2024-04-18T06:56:53.599419Z'
+publishDate: '2024-04-18T18:17:35.333285Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. B*'

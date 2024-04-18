@@ -8,9 +8,9 @@ authors:
 - Gabriel A. Popoola
 - Aidan P. Thompson
 - Sivasankaran Rajamanickam
-- Attila Cangi
+- A. Cangi
 date: '2023-06-01'
-publishDate: '2024-04-18T06:56:53.625014Z'
+publishDate: '2024-04-18T18:17:35.359411Z'
 publication_types:
 - article-journal
 publication: '*npj Computational Materials*'

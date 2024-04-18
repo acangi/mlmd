@@ -4,9 +4,9 @@ authors:
 - Hossein Tahmasbi
 - Kushal Ramakrishna
 - Mani Lokamani
-- Attila Cangi
+- A. Cangi
 date: '2024-03-01'
-publishDate: '2024-04-18T06:56:53.659597Z'
+publishDate: '2024-04-18T18:17:35.391630Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Mater.*'
