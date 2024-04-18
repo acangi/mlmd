@@ -16,8 +16,8 @@ sections:
         
         **The Machine Learning for Materials Design** research group accelerates materials innovation through machine learning and computational modeling, with a focus on developing sustainable materials for a greener future. Our applications span energy storage devices, thermoelectrics, spintronics, neuromorphic devices, and advanced semiconductor modeling.
 
-        Our research group is research department of the [Center for Advanced Systems Understanding](https://www.casus.science) 
-        at [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de).
+        Our research group is a research department of the [Center for Advanced Systems Understanding](https://www.casus.science) 
+        at the [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de).
 
 
   - block: collection
