@@ -27,17 +27,17 @@ organizations:
 bio: My research interests include ...
 
 interests:
-  - Artificial Intelligence
-  - Computational Physics
+#  - Artificial Intelligence
+#  - Computational Physics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in ...
       institution: University
-      year: 2012
-    - course: BSc in Artificial Intelligence
+      year: XXXX
+    - course: BSc in ...
       institution: University
-      year: 2008
+      year: XXXX
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
